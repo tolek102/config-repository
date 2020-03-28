@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/tolek102/xxsxsx
+          uri: https://github.com/tolek102/native
       searchPaths:
